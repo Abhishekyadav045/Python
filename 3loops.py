@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # for i in range(5):
 #     print(i)
 
@@ -55,7 +54,6 @@ for i in range(6):
     for j in range(i):
         print("*",end="")
     print()
-=======
 # for i in range(5):
 #     print(i)
 
@@ -112,4 +110,3 @@ for i in range(6):
     for j in range(i):
         print("*",end="")
     print()
->>>>>>> c9282e3b4b3411cc22b420018d9d266a7bae10f1

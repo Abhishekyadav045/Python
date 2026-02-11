@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # def name():
 #     print("Hello , World")
 
@@ -99,7 +98,6 @@
 # is_palindrome("abakaba")
 
 
-=======
 # def name():
 #     print("Hello , World")
 
@@ -200,4 +198,3 @@
 # is_palindrome("abakaba")
 
 
->>>>>>> c9282e3b4b3411cc22b420018d9d266a7bae10f1

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # num=int(input("Enter the number"))
 # if num>0:
 #     print("Number is Positive")
@@ -130,14 +129,13 @@
 #     print("failed")
 
 
-ch=input("Enter the alphabet")
-vowel== a or e or i or o or u
-if vowel:
-    print("vowel")
-elif ch==
+# ch=input("Enter the alphabet")
+# vowel== a or e or i or o or u
+# if vowel:
+#     print("vowel")
+# elif ch==
 
 
-=======
 # num=int(input("Enter the number"))
 # if num>0:
 #     print("Number is Positive")
@@ -269,11 +267,3 @@ elif ch==
 #     print("failed")
 
 
-ch=input("Enter the alphabet")
-vowel== a or e or i or o or u
-if vowel:
-    print("vowel")
-elif ch==
-
-
->>>>>>> c9282e3b4b3411cc22b420018d9d266a7bae10f1
