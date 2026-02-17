@@ -50,10 +50,12 @@
 #     b=c
 
 
-for i in range(6):
-    for j in range(i):
-        print("*",end="")
-    print()
+# for i in range(6):
+#     for j in range(i):
+#         print("*",end="")
+#     print()
+
+
 # for i in range(5):
 #     print(i)
 
@@ -105,8 +107,7 @@ for i in range(6):
 #     a=b
 #     b=c
 
-
 for i in range(6):
     for j in range(i):
-        print("*",end="")
+        print("**",end="")
     print()

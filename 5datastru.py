@@ -74,13 +74,13 @@
 # print(tuple(x))
 
 
-x=(5,8,6,7,54,572,4,5,8,5,2,58,2)
-listt=(list(x))
-print(listt)
-listt.append(588)
-listt[0]=9876
-tou=tuple(listt)
-print(tou)
+# x=(5,8,6,7,54,572,4,5,8,5,2,58,2)
+# listt=(list(x))
+# print(listt)
+# listt.append(588)
+# listt[0]=9876
+# tou=tuple(listt)
+# print(tou)
 
 
 
@@ -165,10 +165,7 @@ x=(5,8,6,7,54,572,4,5,8,5,2,58,2)
 listt=(list(x))
 print(listt)
 listt.append(588)
+listt.append(41)
 listt[0]=9876
 tou=tuple(listt)
 print(tou)
-
-
-
-

@@ -23,10 +23,10 @@
 # print("Sqr", square)
 # print("cub",cube)
 
-sec= int(input("Enter Seconds "))
-min=(sec//60 )
-second= (sec%60)
-print(min ,"Min",second,"Sec")
+# sec= int(input("Enter Seconds "))
+# min=(sec//60 )
+# second= (sec%60)
+# print(min ,"Min",second,"Sec")
 
 # print("hello world")
 
@@ -54,8 +54,10 @@ print(min ,"Min",second,"Sec")
 # print("Sqr", square)
 # print("cub",cube)
 
+
 sec= int(input("Enter Seconds "))
 min=(sec//60 )
 second= (sec%60)
-print(min ,"Min",second,"Sec")
+print(min ,"Min","&",second,"Sec")
+
 

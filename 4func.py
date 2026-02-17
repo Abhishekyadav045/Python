@@ -189,12 +189,12 @@
 #    text=text.lower()
 #    rev=""
 
-#    for char in text:
-#       rev= char+ rev
-#    if text == rev:
-#       print("number is palindrom")
-#    else:
-#       print("number is not palindrome")
-# is_palindrome("abakaba")
-
+text=input("Enter the number")
+rev= " "
+for char in text:
+   rev= char+ rev
+   if text == rev:
+      print("number is palindrom")
+   else:
+      print("number is not palindrome")
 

@@ -257,13 +257,12 @@
 #     print("Triangle is invalid")
 
 
-# sub1=int(input("Enter first Subject marks:"))
-# sub2=int(input("Enter second Subject marks:"))
-# sub3=int(input("Enter third Subject marks:"))
-# num=(sub1+sub2+sub3)
-# if num>=35:
-#     print("Passed")
-# else:
-#     print("failed")
-
-
+sub1=int(input("Enter first Subject marks:"))
+sub2=int(input("Enter second Subject marks:"))
+sub3=int(input("Enter third Subject marks:"))
+sub4=int(input("Enter fourth Subject marks:"))
+num=(sub1+sub2+sub3)
+if num>=35:
+    print("Student Passed")
+else:
+    print("Student failed")
